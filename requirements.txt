@@ -1,0 +1,19 @@
+"""
+As long as the developers of this app provide a file listing the necessary packages, we can simply $ pip install -r requirements.txt and voila! All of the program’s “dependencies” will be downloaded, installed, and ready to go in one fell swoop.
+"""
+
+beautifulsoup4==4.9.3
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+Flask==1.1.2
+gunicorn==20.0.4
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+requests==2.25.0
+soupsieve==2.0.1
+urllib3==1.26.2
+Werkzeug==1.0.1
+wikipedia==1.4.0
